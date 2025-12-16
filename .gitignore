@@ -1,0 +1,25 @@
+# datasets / outputs
+data/
+logs/
+processed/
+processed_ml/
+reconstruction_outputs/
+evaluation_outputs/
+Lightweight-IDS-Assignment/
+
+# model weights / checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*/
+logbert-mlm/checkpoint-*/
+
+# archives/captures
+*.zip
+*.pcap
+*.pcapng
+
+.DS_Store
+__pycache__/
+*.pyc
