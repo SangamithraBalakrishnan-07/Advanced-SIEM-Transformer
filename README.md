@@ -20,6 +20,9 @@ These files were produced through:
 
 ---
 # 1. Folder Structure
+
+```
+
 Advanced-SIEM-Transformer/
 │
 │── data/
@@ -54,7 +57,7 @@ Advanced-SIEM-Transformer/
 │── requirements.txt
 │── README.md
 
-
+```
 ---
 
 # 2. Results (What Each Output Means)
