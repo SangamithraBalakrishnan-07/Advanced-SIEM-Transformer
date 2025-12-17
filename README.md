@@ -60,7 +60,7 @@ Advanced-SIEM-Transformer/
 ```
 ---
 
-# 2. Results (What Each Output Means)
+# 2. Results
 
 ### **confusion_model1.png**  
 Confusion matrix for Transformer Encoder (Model 1).  
