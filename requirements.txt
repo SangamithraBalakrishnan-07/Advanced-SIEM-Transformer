@@ -1,0 +1,26 @@
+# Core Libraries
+numpy
+pandas
+tqdm
+matplotlib
+seaborn
+scikit-learn
+networkx
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Transformers & HuggingFace Libraries
+transformers
+datasets
+tokenizers
+
+# Utility Libraries
+regex
+python-dateutil
+
+# Notebook Support (optional)
+jupyter
+notebook
